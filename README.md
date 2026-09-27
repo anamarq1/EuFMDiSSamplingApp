@@ -28,8 +28,8 @@ The web application was developed in **R** using the following key packages:
 To support full open-science reproducibility and allow users to reproduce all metrics, tables, and visual outputs reported in the manuscript, raw simulation output files for both outbreak scenarios are provided directly in this repository:
 
 1. **Scenario 1 (Fixed Index Herd):**
-   * `denmark_fmd_demo_500runsMay26_surveillance.csv`
-   * `denmark_fmd_demo_500runsMay26_summary.csv`
+   * `denmark_fmd_demo_500runs_surveillance.csv`
+   * `denmark_fmd_demo_500runs_summary.csv`
 2. **Scenario 2 (Random Index Herds):**
    * `denmark_fmd_demo_500runsMay26random1_summary.csv` 
    * `denmark_fmd_demo_500runsMay26random1_surveillance.csv` 
