@@ -28,11 +28,11 @@ The web application was developed in **R** using the following key packages:
 To support full open-science reproducibility and allow users to reproduce all metrics, tables, and visual outputs reported in the manuscript, raw simulation output files for both outbreak scenarios are provided directly in this repository:
 
 1. **Scenario 1 (Fixed Index Herd):**
-    *_summary.csv
-    *_surveillance.csv
+    *_summary.csv*
+    *_surveillance.csv*
 2. **Scenario 2 (Random Index Herds):**
-    *_summary.csv
-    *_surveillance.csv
+    *_summary.csv*
+    *_surveillance.csv*
 
 Users can load these CSV files directly into the web application to reproduce the daily temporal distributions, holding summaries, and overall diagnostic test requirements (PCR and ELISA).
 
